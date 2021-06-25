@@ -7,10 +7,12 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>mon site test</h1>
+    <p>Parfois je mange du {{$test1}}, c'est bon mais surtoute avec du {{$test2}}. Que du kiff !</p>
     <nav>
+        <li><a href="/contact">contact</a></li>
         <li><a href="/about">about</a></li>
-        <li><a href="/test">test</a></li>
     </nav>
-    <p>hey {{$nom}} {{$prenom}} {{$num}}</p>
+    <p>et aussi {{$test3}}, sex de {{$test4}}</p>
 </body>
 </html>

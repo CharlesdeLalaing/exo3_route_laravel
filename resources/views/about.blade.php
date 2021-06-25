@@ -9,6 +9,8 @@
 <body>
     <nav>
         <li><a href="/contact">contact</a></li>
+        <li><a href="/test">test</a></li>
     </nav>
+    <p>hey {{$fruit}} c bob</p>
 </body>
 </html>

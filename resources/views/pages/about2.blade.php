@@ -8,9 +8,8 @@
 </head>
 <body>
     <nav>
-        <li><a href="/about">about</a></li>
-        <li><a href="/test">test</a></li>
+        <li><a href="/contact2/{nom}/{prenom}/{num}">contact2</a></li>
     </nav>
-    <p>hey {{$nom}} {{$prenom}} {{$num}}</p>
+    <h1>{{$fruit}}</h1>
 </body>
 </html>
